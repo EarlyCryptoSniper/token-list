@@ -1,9 +1,9 @@
 {
   "chainId": 103,
   "address": "7kBA158vTP2n8vXCtgNSSYpRXs5MqfgL1iPMgxNDBo6M",
-  "symbol": "CSNPR",
+  "symbol": "CSNR",
   "name": "CryptoSniper",
   "decimals": 9,
-  "logoURI": "https://your-logo-url.com/logo.png",
+  "logoURI": "https://raw.githubusercontent.com/EarlyCryptoSniper/token-list/main/bdf01e44-993f-4e65-90d3-e9f4d2dc662d.jpg",
   "tags": ["memecoin", "community"]
 }
